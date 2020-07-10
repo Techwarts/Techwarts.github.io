@@ -17,14 +17,10 @@ Website built using:
 Our umbrella organization houses 3 clubs in major field of computer science:
 
 1. Predict_This!
-
-    The ML/AI club of PESU - ECC, led by @manikyabard and @joerishon
+   - The ML/AI club of PESU - ECC, led by @manikyabard and @joerishon
 2. onCreate()
-
-    The mobile computing forum led by @irfan-s and @call-me-bk
+   - The mobile computing forum led by @irfan-s and @call-me-bk
 3. Pixel
-
-    Everything AR/VR led by @ShreyaPanale
+   - Everything AR/VR led by @ShreyaPanale
 4. We the Programmers
-
-    Competetive coding led by @shivanshSharma and @ShikarGupta
+   - Competetive coding led by @shivanshSharma and @ShikarGupta
