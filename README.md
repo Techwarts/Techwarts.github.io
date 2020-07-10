@@ -1,8 +1,8 @@
-# The official Techwarts Website!
+# The Official Techwarts Website!
 
 ![](https://img.shields.io/github/license/techwarts/techwarts.github.io)
 
-Welcome to the home of everything Tech!
+*Welcome* to the house of everything **Tech**!
 
 Techwarts is an organization in PES University EC campus.
 Filled with tech enthusiasts and happy potter fans, our club aims to encourage students to take better themselves by _participating_, _leading_ and _achieving_!
