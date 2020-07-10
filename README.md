@@ -12,6 +12,7 @@ Website built using:
 ![](https://img.shields.io/badge/Styling-CSS3-blue)   
 ![](https://img.shields.io/badge/Markup-HTML5-red)   
 ![](https://img.shields.io/badge/Scripting-JavaScript-yellow)
+![](https://img.shields.io/badge/Backend-Bootstrap%20Studio-blueviolet)
 
 
 Our umbrella organization houses 3 clubs in major field of computer science:
