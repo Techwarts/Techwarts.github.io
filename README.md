@@ -23,5 +23,7 @@ Our umbrella organization houses 3 clubs in major field of computer science:
    - The mobile computing forum led by @irfan-s and @call-me-bk
 3. Pixel
    - Everything AR/VR led by @ShreyaPanale
-4. We the Programmers
+4. Zero Day
+   - CybserSecurity led by @KeshavRaju and @TejusD
+5. We the Programmers
    - Competetive coding led by @shivanshSharma and @ShikarGupta
