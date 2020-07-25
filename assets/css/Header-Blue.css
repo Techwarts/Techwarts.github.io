@@ -12,10 +12,10 @@
 }
 
 .header-blue .navbar {
-  /*background: linear-gradient(135deg, #172a74, #b92b27);*/
+  background: linear-gradient(135deg, #172a74, #b92b27);
   padding-top: .75rem;
   padding-bottom: .75rem;
-  color: #fff;
+  /*color: #fff;*/
   border-radius: 0;
   box-shadow: none;
   border: none;

@@ -112,6 +112,11 @@
 .team-boxed {
 }
 
-.navbar.navbar-light.navbar-expand-md.fixed-top.navigation-clean-search.navbar-fixed-top {
+.scrolled {
+  background-color: green;
+}
+
+.navbar-fixed-top.scrolled {
+  background: linear-gradient(135deg, #172a74, #b92b27);
 }
 
