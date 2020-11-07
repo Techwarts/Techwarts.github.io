@@ -1,8 +1,7 @@
 #brand-logo {
-  font-size: 34px;
+    font-size: 34px;
 }
 
 #app-navbar {
-  background: linear-gradient(120deg, #002649, #5983e8);
+    background: blue;
 }
-
