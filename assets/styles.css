@@ -16,10 +16,14 @@ nav {
 
 .card {
     height: 2000px;
-    background-color: #A3D5FF;
-    color: black;
+    background: #AAFFE5;
+    color: white;
     padding-left: 50px;
     padding-right: 50px;
+}
+
+.mainflip {
+    background: #AAFFE5;
 }
 
 .card-text {
