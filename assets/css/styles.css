@@ -1,22 +1,23 @@
-.nav-item
-{
-	font-size: 20px;
+.nav-item {
+    font-size: 20px;
 }
-html{
-	height: 150%;
+
+html {
+    height: 150%;
 }
+
 body {
-    background-color: #00587a;	
+    background-color: #0C56A5;
 }
 
 nav {
-    background-color: #0f3057;
+    background-color: #133B60;
 }
 
 .card {
     height: 2000px;
-    background : #008891;
-    color: white;
+    background-color: #A3D5FF;
+    color: black;
     padding-left: 50px;
     padding-right: 50px;
 }
@@ -24,7 +25,6 @@ nav {
 .card-text {
     font-size: 20px;
 }
-
 
 .image-flip:hover .backside,
 .image-flip.hover .backside {
@@ -63,7 +63,7 @@ nav {
     -ms-transform: rotateY(0deg);
     z-index: 2;
     margin-bottom: 30px;
-    background-color: #008891;
+    background-color: #5AFF15;
 }
 
 .backside {
@@ -110,11 +110,10 @@ nav {
 
 .frontside .card .card-title,
 .backside .card .card-title {
-    color: white !important;
+    color: black !important;
 }
 
 .frontside .card .card-body img {
     width: 300px;
     height: 300px;
 }
-
