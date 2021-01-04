@@ -114,7 +114,7 @@ nav {
     height: 300px;
 }
 
-@media screen and (min-width: 401px) {
+@media screen and (min-width: 501px) {
     .card-text {
         font-size: 20px;
     }
@@ -123,8 +123,8 @@ nav {
 
 /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
     .card-text {
-        font-size: 7px;
+        font-size: 14px;
     }
 }
