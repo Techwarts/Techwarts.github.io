@@ -18,8 +18,8 @@ nav {
     height: 2000px;
     background-color: #A3D5FF;
     color: black;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .image-flip:hover .backside,
@@ -112,10 +112,6 @@ nav {
 .frontside .card .card-body img {
     width: 300px;
     height: 300px;
-}
-
-.text-responsive {
-    font-size: calc(100% + 1vw + 1vh);
 }
 
 @media (min-width: 544px) {
